@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 1.2'
 # Use Twitter Bootstrap Sass
 gem 'bootstrap-sass', '~> 3.3.4'
 
+# Add the simple form gem
+gem 'simple_form'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
